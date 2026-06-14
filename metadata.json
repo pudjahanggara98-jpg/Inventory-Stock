@@ -1,0 +1,6 @@
+{
+  "name": "Store Equipment Stock Control",
+  "description": "A single-screen system to track, manage, and audit store equipment stocks such as bottles, glassware, and utensils.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
